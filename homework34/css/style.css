@@ -1,0 +1,32 @@
+.block1 {
+font-family: "Open Sans", sans-serif;
+font-weight: 300px;
+font-size: 20px;
+line-height: 30px;
+font-style: italic;
+text-align: justify;
+}
+
+.block2 {
+text-decoration: line-through;
+}
+
+.block3 {
+   text-transform: uppercase;
+   text-align: center;
+}
+
+.block4 {
+    text-decoration: overline;
+    text-decoration-style: wavy;
+    box-shadow: 2px 2px 5px 0px rgba(80, 9, 68, 0.5);
+    color: #793275;
+    box-shadow: 2px 2px 10px 0px rgba(80, 9, 68, 0.5);    
+    word-spacing: 30px;
+}
+
+.block5{
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
