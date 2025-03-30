@@ -1,5 +1,9 @@
-h1 {
+.block1 {
     color: rgb(14, 138, 160);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300px;
+    font-size: 20px;
+    font-style: italic;
 }
 
 .img {
