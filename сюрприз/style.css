@@ -1,20 +1,26 @@
 .block1 {
     color: rgb(14, 138, 160);
     font-family: "Open Sans", sans-serif;
+    font-weight: 100px;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+}
+
+.img {
+    max-width: 200px;
+}
+
+.photo {
+    text-align: center; 
+}
+
+.block2 {
+    border-bottom-color: rgb(14, 138, 160);
+    font-family: "Open Sans", sans-serif;
     font-weight: 300px;
     font-size: 20px;
     font-style: italic;
     padding: 25px;
-}
-
-.img {
-    width=100%;
-    max-width: 360px;
-}
-
-.block2 {
-    color: rgb(14, 138, 160);
-    font-family: "Open Sans", sans-serif;
-    font-weight: 100px;
-    font-size: 10px;
-    font-style: italic;
+    text-align: center;
